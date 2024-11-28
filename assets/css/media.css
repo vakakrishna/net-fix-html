@@ -1,0 +1,877 @@
+/* (0-575) 1rem=8px*/
+@media screen and (max-width: 575px) {
+
+    .hero-data h1 {
+        font-size: 3rem;
+    }
+
+    .blog-detail p {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .horo-row1 img {
+        height: 13rem;
+        width: 13rem;
+    }
+
+    .horo-row2 img {
+        width: 11rem;
+        height: 11rem;
+    }
+
+    .why-data img {
+        max-width: 32%;
+    }
+
+    .blog-detail h2 {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .mem-data h2 {
+        font-size: 5rem;
+    }
+
+    .service-data p {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .part-data h2 {
+        font-size: 5rem;
+    }
+
+    .hero-data h2 {
+        font-size: 4rem;
+    }
+
+    .meet-data form p {
+        font-size: 2rem;
+    }
+
+    .data-loop h3 {
+        font-size: 2.4rem;
+
+    }
+
+    .data-loop img {
+        margin: 0 auto;
+        max-width: 32%;
+    }
+
+
+    .data-loop {
+        justify-content: center;
+    }
+
+
+    .astr-data .ips-data {
+        max-width: 40rem;
+        text-align: center;
+    }
+
+    .astr-data img {
+        border-right: 0px;
+        padding-right: 0;
+    }
+
+    .discover {
+        padding-left: 0rem;
+        margin-left: 1rem;
+    }
+
+    .main-title {
+        text-align: center;
+    }
+
+
+    .sub-title {
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .super-data .bteam {
+        font-size: 4rem;
+    }
+
+    .super-team {
+        padding-left: 0rem;
+    }
+
+    .service-details h2 {
+        text-align: center;
+    }
+
+    .for-cast {
+        margin: 2rem;
+    }
+
+    .super-data h2 {
+        text-align: center;
+        font-size: 4rem;
+    }
+
+    .super-data p {
+        text-align: center;
+    }
+
+    .maps {
+        text-align: center;
+    }
+
+    .service-details a {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hourse-data {
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .hourse-detail {
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .horo-row1 {
+        justify-content: center;
+    }
+
+    .horo-row2 {
+        justify-content: center;
+    }
+
+    .meet-data p {
+        text-align: center;
+    }
+
+    .meet-data h2 {
+        font-size: 4rem;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+
+    #membership h2 {
+        font-size: 3.4rem;
+    }
+
+    #hero,
+    #about,
+    #super,
+    #services,
+    #why,
+    #horoscope,
+    #meet,
+    #membership,
+    #mem-price,
+    #BOODOO,
+    #blog {
+        padding-top: 9rem;
+    }
+
+    .common-btn {
+        margin: 0 auto;
+
+        margin-top: 3rem;
+    }
+
+    .imges img {
+        height: 18rem;
+    }
+
+    .hero-data h1 {
+        padding-top: 10rem;
+    }
+
+    .service-details li {
+        text-align: center;
+    }
+
+    .swiper-details::before {
+        height: 4rem;
+        width: 4rem;
+        left: 0rem;
+        top: -1rem;
+    }
+
+    .mains-title {
+        text-align: center;
+
+    }
+
+    .subs-title {
+        margin: 0 auto;
+        text-align: center;
+        font-size: 4rem;
+    }
+
+    .service-data img {
+        margin: 0 auto;
+    }
+
+    .woman h2 {
+        font-size: 2rem;
+    }
+
+    .virgo h2 {
+        font-size: 2rem;
+    }
+
+    .mem-details {
+        margin: 0;
+        padding: 2rem;
+    }
+
+    .swiper-data {
+        margin: 5rem 0rem;
+    }
+
+    .blog-details {
+        margin: 0rem;
+    }
+
+    .for-cast {
+        padding: 1rem;
+    }
+
+    .common-btns {
+        margin: 0 auto;
+    }
+
+}
+
+/* (576-767) sm 1rem=8px */
+@media screen and (min-width: 576px) {
+    html {
+        font-size: 51.0%;
+    }
+
+
+    .hero-data h1 {
+        font-size: 8rem;
+        padding-top: 15rem;
+    }
+
+    .data-loop h3 {
+        font-size: 4.4rem;
+
+    }
+
+
+    .mem-data h2 {
+        font-size: 7rem;
+    }
+
+    .data-loop {
+        justify-content: center;
+        row-gap: 3rem;
+    }
+
+
+    .astr-data .ips-data {
+        width: 50rem;
+        margin: 0 auto;
+    }
+
+    .astr-data img {
+        border-right: 0px;
+        padding-right: 0;
+    }
+
+    .discover {
+        padding-left: 0rem;
+        margin-left: 2rem;
+    }
+
+    .super-data h2 {
+        font-size: 10rem;
+    }
+
+    .meet-data form p {
+        font-size: 3rem;
+    }
+
+    .super-team {
+        padding-left: 0rem;
+    }
+
+    .main-title {
+        text-align: center;
+
+    }
+
+
+    .sub-title {
+        text-align: center;
+
+    }
+
+    .super-data .bteam {
+        font-size: 9rem;
+    }
+
+
+    .service-data {
+        row-gap: 2rem;
+    }
+
+    .for-cast {
+        margin: 0rem;
+    }
+
+    .super-data h2 {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .super-data p {
+        margin: 0 auto;
+    }
+
+    .super-data p {
+        text-align: center;
+    }
+
+    .can-data {
+        margin-left: 0rem;
+    }
+
+    .ta-data {
+        margin-right: 0rem;
+
+    }
+
+    .hourse-data {
+        justify-content: center;
+
+    }
+
+    .hourse-detail {
+        justify-content: center;
+
+    }
+
+    .horo-row1 {
+        justify-content: center;
+    }
+
+    .horo-row2 {
+        justify-content: center;
+    }
+
+    .meet-data h2 {
+        font-size: 4.9rem;
+        max-width: 70rem;
+    }
+
+    #membership {
+        padding-top: 6rem;
+    }
+
+    .mem-data {
+        justify-content: center;
+    }
+
+
+    #membership h2 {
+        font-size: 5.4rem;
+    }
+
+    .astr-data .ips-data {
+        width: 54rem;
+        text-align: left;
+    }
+
+    .mains-title {
+        text-align: center;
+    }
+
+    .subs-title {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .common-btn {
+        margin-top: 3rem;
+        margin: 0 auto;
+    }
+
+
+    .swiper-details::before {
+        height: 5rem;
+        width: 5rem;
+        top: -1rem;
+    }
+
+    .mains-title {
+        text-align: center;
+
+    }
+
+    .subs-title {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .mem-details {
+        margin: 0px 2rem;
+        padding: 3rem;
+    }
+
+    .swiper-data {
+        margin: 15rem 5rem 0 5rem;
+    }
+
+    .blog-details {
+        margin: 0 3rem 0 3rem;
+    }
+
+    .for-cast {
+        padding: 3rem;
+    }
+
+    .horo-row1 img {
+        height: 13rem;
+        width: 13rem;
+    }
+
+    .horo-row2 img {
+        width: 18rem;
+        height: 18rem;
+    }
+
+    .common-btns {
+        margin: 0 auto;
+    }
+
+}
+
+/* (768-991) md 1rem=9px*/
+@media screen and (min-width: 768px) {
+    html {
+        font-size: 56.0%;
+    }
+
+    .hero-data h1 {
+        font-size: 8rem;
+        padding-top: 22rem;
+    }
+
+    .data-loop h3 {
+        font-size: 4.4rem;
+
+    }
+
+    .data-loop {
+        justify-content: center;
+    }
+
+
+    .astr-data .ips-data {
+        width: 54rem;
+        text-align: center;
+    }
+
+    .for-cast {
+        margin: 2rem;
+    }
+
+
+    .super-data .bteam {
+        font-size: 7rem;
+    }
+
+    .super-data p {
+        text-align: center;
+    }
+
+    .why-data {
+        justify-content: center;
+    }
+
+
+    .hourse-detail {
+        justify-content: center;
+    }
+
+    .horo-row1 {
+        justify-content: center;
+    }
+
+    .horo-row2 {
+        justify-content: center;
+    }
+
+    .meet-data h2 {
+        max-width: 70rem;
+    }
+
+    #membership {
+        padding-top: 6rem;
+    }
+
+    .why-data img {
+        max-width: 100%;
+    }
+
+
+    #hero,
+    #about,
+    #super,
+    #services,
+    #why,
+    #horoscope,
+    #meet,
+    #membership,
+    #mem-price,
+    #BOODOO,
+    #blog {
+        padding-top: 15rem;
+    }
+
+    .common-btn {
+        margin: 0 auto;
+        margin-top: 3rem;
+    }
+
+    .imges img {
+        margin: 0 auto;
+        height: 20rem;
+    }
+
+    .astr-data {
+        padding-top: 13rem;
+    }
+
+    .meet-data p {
+        text-align: center;
+    }
+
+    .meet-data h2 {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .mains-title {
+        text-align: center;
+
+    }
+
+    .subs-title {
+        text-align: center;
+    }
+
+    .woman h2 {
+        font-size: 5rem;
+    }
+
+    .virgo h2 {
+        font-size: 5rem;
+    }
+
+
+}
+
+/* (992-1199) lg */
+@media screen and (min-width: 992px) {
+
+    .data-loop h3 {
+        font-size: 4.4rem;
+
+    }
+
+    .astr-data img {
+        border-right: 0px;
+        padding-right: 0;
+    }
+
+    .discover {
+        padding-left: 0rem;
+    }
+
+    .super-data h2 {
+        font-size: 7rem;
+
+    }
+
+    .maps {
+        text-align: center;
+    }
+
+
+    .super-data .bteam {
+        font-size: 9rem;
+    }
+
+    .service-data p {
+        text-align: left;
+    }
+
+    .service-data img {
+        padding-left: 1rem;
+    }
+
+    .service-details li {
+        text-align: left;
+    }
+
+    .super-data h2 {
+        text-align: left;
+    }
+
+    .blog-detail h2 {
+        text-align: left;
+    }
+
+    .blog-detail p {
+        text-align: left;
+    }
+
+    .super-data p {
+        text-align: left;
+    }
+
+    .service-details h2 {
+        text-align: left;
+    }
+
+    .super-team {
+        padding-left: 3rem;
+    }
+
+    .hourse-data {
+        justify-content: space-between;
+    }
+
+    .hourse-detail {
+        justify-content: space-between;
+    }
+
+    .horo-row1 img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .horo-row2 img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .meet-data h2 {
+        font-size: 6rem;
+        max-width: 45rem;
+    }
+
+    .swiper-details::before {
+        height: 6rem;
+        width: 6rem;
+        top: -1rem;
+    }
+
+    #membrship h2 {
+        font-size: 5.4rem;
+    }
+
+    .common-btn {
+        margin-left: 1rem;
+        margin: 0 auto;
+        margin-top: 3rem;
+
+    }
+
+    .meet-data p {
+        text-align: left;
+    }
+
+    .meet-data h2 {
+        text-align: left;
+    }
+
+
+}
+
+/* (1200-1399) xl 1rem=10px */
+@media screen and (min-width: 1200px) {
+    html {
+        font-size: 62.5%;
+    }
+
+
+
+    .data-loop h3 {
+        font-size: 5rem;
+    }
+
+    .data-loop {
+        justify-content: center;
+    }
+
+    .astr-data img {
+        border-right: 2px solid white;
+        padding-right: 11rem;
+    }
+
+    .discover {
+        padding-left: 10rem;
+        margin-left: 7rem;
+    }
+
+    .super-data h2 {
+        font-size: 9rem;
+    }
+
+    .super-data .bteam {
+        font-size: 8rem;
+        /* padding-left: 18rem; */
+    }
+
+    .for-cast {
+        margin: 3.5rem;
+    }
+
+    .super-team {
+        padding-left: 9.8rem;
+    }
+
+    .super-data .bteam {
+        font-size: 9rem;
+    }
+
+    .service-data {
+        row-gap: 2rem;
+    }
+
+    .for-cast {
+        margin: 3.5rem;
+    }
+
+    .why-data {
+        justify-content: space-between;
+    }
+
+
+    .can-data {
+        margin-left: 0rem;
+    }
+
+    .ta-data {
+        margin-right: 0rem;
+
+    }
+
+    .hourse-data {
+        justify-content: space-between;
+    }
+
+    .hourse-detail {
+        justify-content: space-between;
+    }
+
+    .horo-row1 img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+    .horo-row2 img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+    #membership {
+        padding-top: 20rem;
+
+    }
+
+    .mem-data {
+        justify-content: space-between;
+    }
+
+    .swiper-details::before {
+        height: 9rem;
+        width: 9rem;
+    }
+
+    .mains-title {
+        text-align: left;
+    }
+
+    .subs-title {
+        text-align: left;
+    }
+
+    #hero,
+    #about,
+    #super,
+    #services,
+    #why,
+    #horoscope,
+    #meet,
+    #membership,
+    #mem-price,
+    #BOODOO,
+    #blog {
+        padding-top: 20rem;
+    }
+
+}
+
+/* (1400-any) xxl  */
+@media screen and (min-width: 1400px) {
+
+    .hero-data h1 {
+        font-size: 8rem;
+    }
+
+    .data-loop h3 {
+        font-size: 4.4rem;
+
+    }
+
+    .super-data h2 {
+        font-size: 10rem;
+    }
+
+
+    .super-team {
+        padding-left: 9.8rem;
+    }
+
+    .service-data {
+        row-gap: 2rem;
+    }
+
+    .for-cast {
+        margin: 7.5rem;
+    }
+
+    .can-data {
+        margin-left: 10rem;
+    }
+
+    .ta-data {
+        margin-right: 10rem;
+
+    }
+
+    .horo-row1 img {
+        width: 18rem;
+        height: 18rem;
+    }
+
+    .horo-row2 img {
+        width: 18rem;
+        height: 18rem;
+    }
+
+    .meet-data h2 {
+        font-size: 8rem;
+    }
+
+
+    .common-btns {
+        margin-left: 1rem;
+    }
+}
